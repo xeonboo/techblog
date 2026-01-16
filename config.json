@@ -1,0 +1,7 @@
+{
+  "url": "https://shade-experience-fb3.notion.site/2ea73a7ab3de81ab9047c36ad4433f0b?v=2ea73a7ab3de815da70c000cc666c934&source=copy_link",
+  "output": "public",
+  "theme": "pure-ejs",
+  "previewBrowser": "/usr/bin/chromium",
+  "autoSlug": true
+}
