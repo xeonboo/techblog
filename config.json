@@ -3,5 +3,6 @@
   "output": "public",
   "theme": "pure-ejs",
   "previewBrowser": "/usr/bin/chromium",
-  "autoSlug": true
+  "autoSlug": true,
+  "basePath": "/techblog/"
 }
